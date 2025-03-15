@@ -1,8 +1,6 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 📌 Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A well-structured and comprehensive list of **Model Context Protocol (MCP) servers** that enhance AI capabilities by providing access to local and remote resources.
-
----
 
 ## 🌟 Table of Contents
 
@@ -28,14 +26,21 @@ A well-structured and comprehensive list of **Model Context Protocol (MCP) serve
 ---
 
 ## 🚀 Clients
-- **[Glama Chat](https://glama.ai/chat)** (MCP support & AI Gateway)  
-- **[Official MCP Clients](https://glama.ai/mcp/clients)**
+
+| Client | Description | Link |
+|--------|------------|------|
+| **Glama Chat** | Multi-modal AI client with MCP support & AI Gateway | [Glama Chat](https://glama.ai/chat) |
+| **Official MCP Clients** | Collection of compatible MCP clients | [MCP Clients](https://glama.ai/mcp/clients) |
 
 ---
 
 ## 📖 Tutorials
-- **[MCP Quickstart Guide](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)**
-- **[Setting Up SQLite in Claude Desktop](https://youtu.be/wxCCzo9dGj0)**
+
+| Tutorial | Description | Link |
+|----------|------------|------|
+| **MCP Quickstart Guide** | Learn how to set up and use MCP servers | [Read More](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart) |
+| **Setting Up SQLite in Claude Desktop** | Guide to integrating SQLite with Claude | [Watch Video](https://youtu.be/wxCCzo9dGj0) |
+| **MCP Tools Overview** | Understanding MCP tools | [Explore](https://glama.ai/mcp/tools) |
 
 ---
 
@@ -57,27 +62,40 @@ A well-structured and comprehensive list of **Model Context Protocol (MCP) serve
 ---
 
 ## 🏗 Frameworks
-- **[FastMCP (Python)](https://github.com/jlowin/fastmcp)**
-- **[LiteMCP (JavaScript)](https://github.com/wong2/litemcp)**
-- **[Spring-AI-MCP (Java)](https://github.com/spring-projects-experimental/spring-ai-mcp)**
-- **[Metoro MCP (Golang)](https://github.com/metoro-io/mcp-golang)**
+
+| Framework | Language | Link |
+|-----------|---------|------|
+| **FastMCP** | Python | [View on GitHub](https://github.com/jlowin/fastmcp) |
+| **LiteMCP** | JavaScript | [View on GitHub](https://github.com/wong2/litemcp) |
+| **Spring-AI-MCP** | Java | [View on GitHub](https://github.com/spring-projects-experimental/spring-ai-mcp) |
+| **Metoro MCP** | Golang | [View on GitHub](https://github.com/metoro-io/mcp-golang) |
 
 ---
 
 ## 🛠 Utilities
-- **[MCP Proxy (TypeScript)](https://github.com/punkpeye/mcp-proxy)**
-- **[MCP CLI Testing](https://github.com/wong2/mcp-cli)**
-- **[MCP Gateway (HTTP/SSE Transport)](https://github.com/lightconetech/mcp-gateway)**
+
+| Utility | Description | Link |
+|---------|------------|------|
+| **MCP Proxy** | TypeScript-based proxy for MCP servers | [View on GitHub](https://github.com/punkpeye/mcp-proxy) |
+| **MCP CLI Testing** | Command-line tool for testing MCP servers | [View on GitHub](https://github.com/wong2/mcp-cli) |
+| **MCP Gateway** | HTTP/SSE transport gateway | [View on GitHub](https://github.com/lightconetech/mcp-gateway) |
 
 ---
 
 ## 💬 Community & Support
-- **[r/mcp - Reddit](https://www.reddit.com/r/mcp)**
-- **[MCP Discord Server](https://glama.ai/mcp/discord)**
-- **[GitHub Discussions](https://github.com/punkpeye/awesome-mcp-servers/discussions)**
+
+| Platform | Description | Link |
+|----------|------------|------|
+| **r/mcp - Reddit** | Community discussions | [Join Now](https://www.reddit.com/r/mcp) |
+| **MCP Discord Server** | Live discussions and support | [Join Discord](https://glama.ai/mcp/discord) |
+| **GitHub Discussions** | Submit questions and ideas | [Contribute](https://github.com/punkpeye/awesome-mcp-servers/discussions) |
 
 ---
 
+## 🎥 Video Resources
+- [Introduction to MCP Servers](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=192s)
+
+---
 
 ## ⚡ Contribute & Stay Updated
 If you have an MCP server to share, feel free to submit a **pull request** to the [Awesome MCP Servers GitHub Repository](https://github.com/punkpeye/awesome-mcp-servers).
