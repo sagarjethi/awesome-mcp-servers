@@ -28,7 +28,6 @@ A well-structured and comprehensive list of **Model Context Protocol (MCP) serve
 ---
 
 ## 🚀 Clients
-- **[Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients/)**  
 - **[Glama Chat](https://glama.ai/chat)** (MCP support & AI Gateway)  
 - **[Official MCP Clients](https://glama.ai/mcp/clients)**
 
