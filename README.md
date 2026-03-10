@@ -54,6 +54,7 @@ A well-structured and comprehensive list of **Model Context Protocol (MCP) serve
 | **Communication** | Messaging & notifications | [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) |
 | **Databases** | Secure DB access | [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) |
 | **Developer Tools** | IDE & API integrations | [VS Code Debug MCP](https://github.com/jasonjmcghee/claude-debugs-for-you) |
+| **AI Tools** | Multi-model AI brainstorming | [Roundtable MCP](https://github.com/sinaneshat/roundtable-dashboard) |
 | **Finance & Fintech** | Market & crypto data | [Coincap MCP](https://github.com/QuantGeekDev/coincap-mcp) |
 | **Security** | Threat monitoring & protection | [Shodan MCP](https://github.com/BurtTheCoder/mcp-shodan) |
 | **Travel & Transport** | Navigation & scheduling | [NS Travel Info](https://github.com/r-huijts/ns-mcp-server) |
