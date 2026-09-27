@@ -60,6 +60,8 @@ A well-structured and comprehensive list of **Model Context Protocol (MCP) serve
 | **Version Control** | GitHub & GitLab integration | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) |
 
 ---
+| **Company Data & OSINT** | Background checks & registries | [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) |
+
 
 ## 🏗 Frameworks
 
